@@ -1,6 +1,6 @@
 # DecodeLabs-Internship
 # Data Analytics Project 01 – Data Cleaning using Python
-Description
+Description - 
 This project performs basic **data cleaning and validation using Python and Pandas** on an Excel dataset.
 It:
 
